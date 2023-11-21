@@ -1,3 +1,3 @@
-## Git Tutorial
+## Sample Output
 
-How to use Git
+Index.html is uploaded
